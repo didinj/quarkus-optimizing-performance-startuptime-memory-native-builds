@@ -1,6 +1,6 @@
 # Optimizing Quarkus Performance: Startup Time, Memory & Native Builds
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/691ed6c2f256430140070f22/optimizing-quarkus-performance-startup-time-memory-native-builds).
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
